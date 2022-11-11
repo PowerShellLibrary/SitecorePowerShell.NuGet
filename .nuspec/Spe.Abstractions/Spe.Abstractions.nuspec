@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Spe.Abstractions</id>
+    <version>$version</version>
+    <title>Sitecore PowerShell Extensions</title>
+    <authors>Alan Płócieniak</authors>
+    <owners>Adam Najmanowicz, Michael West</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/SitecorePowerShell/Console</projectUrl>
+    <description>A command line and scripting tool built for the Sitecore platform.</description>
+    <copyright>© 2010-$YTD Adam Najmanowicz, Michael West. All rights reserved. Sitecore PowerShell Extensions</copyright>
+    <tags>Sitecore PowerShell</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+    </dependencies>
+  </metadata>
+</package>
