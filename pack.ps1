@@ -1,4 +1,4 @@
-$version = "6.4"
+$version = "7.0.0"
 function Expand-Variables {
     param (
         [Parameter(Mandatory = $true, Position = 0, ValueFromPipeline = $true )]
